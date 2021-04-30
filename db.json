@@ -1,161 +1,272 @@
 {
-  "Chantra Computer": {
-    "profile": "https://scontent.fpnh1-1.fna.fbcdn.net/v/t1.6435-9/141644635_3906239682767862_8121116606452751712_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEJCd5qTAEM7ER0GryGcgOfam6kuarjlAhqbqS5quOUCK686f8utmVj1vHUBmELtkj07x2ZN30gzYHQqp9obpAf&_nc_ohc=_RpOU_d0cpUAX--BhfD&_nc_ht=scontent.fpnh1-1.fna&oh=02e903544c2ad11775d044ae116ed24e&oe=60AF7E94",
+  "Chantra Computer": [
+    {
+      "profile": "https://scontent.fpnh1-1.fna.fbcdn.net/v/t1.6435-9/141644635_3906239682767862_8121116606452751712_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEJCd5qTAEM7ER0GryGcgOfam6kuarjlAhqbqS5quOUCK686f8utmVj1vHUBmELtkj07x2ZN30gzYHQqp9obpAf&_nc_ohc=_RpOU_d0cpUAX--BhfD&_nc_ht=scontent.fpnh1-1.fna&oh=02e903544c2ad11775d044ae116ed24e&oe=60AF7E94",
+      "cpu": [
+        20,
+        {
+          "_id": "608bd21ef8ea494c11b9046f",
+          "index": 1,
+          "brand": "AMD",
+          "model": "Ryzen 5",
+          "cores": 11,
+          "tdp": 40,
+          "integrated_graphics": "Radeon HD 8240",
+          "price": "$365.50"
+        }
+      ],
+      "motherboard": [
+        20,
+        {
+          "_id": "608bd21efdfeb3746ddfd9ac",
+          "index": 1,
+          "brand": "ASRock",
+          "model": "760GM-GS3",
+          "socket": "AM3",
+          "form_factor": "Micro ATX",
+          "ram_slots": 2,
+          "max_ram": 7244127300,
+          "price": "$143.33"
+        }
+      ],
+      "memory": [
+        20,
+        {
+          "_id": "608bd21eeccfcda89f9d335b",
+          "index": 1,
+          "brand": "ADATA",
+          "model": "AD2S800B2G5-R 8 GB",
+          "module_type": "DDR3",
+          "speed": 3418396818,
+          "price": "$215.05"
+        }
+      ],
+      "internal-hard-drive": [
+        20,
+        {
+          "_id": "608bd21e9520a541d9cc8bd6",
+          "index": 1,
+          "brand": "ADATA",
+          "model": "Falcon",
+          "capacity": 2716183759,
+          "price": "$354.79",
+          "storage_type": "HHD",
+          "form_factor": "M.2-2242"
+        }
+      ],
+      "video-card": [
+        20,
+        {
+          "_id": "608bd21ea9b68047f27541c3",
+          "index": 1,
+          "brand": "MSI",
+          "model": "GTX",
+          "chipset": "GeForce GTX 1080",
+          "vram": 2814427138,
+          "price": "$86.42"
+        }
+      ],
+      "power-supply": [
+        20,
+        {
+          "_id": "608bd21e8104a32ab3170d06",
+          "index": 1,
+          "brand": "In Win",
+          "model": "GreenMe 650",
+          "form_factor": "ATX",
+          "wattege": 473,
+          "price": "$337.68"
+        }
+      ],
+      "monitor": [
+        20,
+        {
+          "_id": "608bd21e4eefe3f09fe6c185",
+          "index": 1,
+          "brand": "Lenovo",
+          "model": "LT1712p",
+          "size": 17,
+          "resolution_width": 709,
+          "resolution_height": 3029,
+          "refresh_rate": 200,
+          "panel_type": "TN",
+          "price": "$386.17"
+        }
+      ],
+      "case": [
+        20,
+        {
+          "_id": "608bd21e1b5301e5edf84904",
+          "index": 1,
+          "brand": "Fractal Design",
+          "model": "Define R3",
+          "form_factor": "ATX Mid Tower",
+          "internal_bays": 6,
+          "external_bays": 3,
+          "price": "$299.41"
+        }
+      ]
+    }
+  ],
+  "TK Custom Computer": [
+    {
+      "profile": "https://scontent.fpnh1-2.fna.fbcdn.net/v/t1.6435-9/79247289_102170961290311_2921942847915556864_n.png?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeF3LMw-iVRmtvNvbLt8op-7WcBi5BeqTzlZwGLkF6pPObRY2m83-2QtQ3_k5NkUNz9DSzobWthj8-BHArUsI1PY&_nc_ohc=T7bVu99u4XYAX_Ujags&_nc_ht=scontent.fpnh1-2.fna&oh=825915a8b546ae72b5e1d12e500f97e4&oe=60B22BA6",
+      "cpu": [
+        20,
+        {
+          "_id": "608bd21e53beb69397f56b1a",
+          "index": 1,
+          "brand": "Intel",
+          "model": "Ryzen 5",
+          "cores": 9,
+          "tdp": 26,
+          "integrated_graphics": "Radeon HD 8240",
+          "price": "$389.89"
+        }
+      ],
+      "motherboard": [
+        20,
+        {
+          "_id": "608bd21eddcf85c68a4460ab",
+          "index": 1,
+          "brand": "ASRock",
+          "model": "760GM-GS3",
+          "socket": "AM3",
+          "form_factor": "Micro ATX",
+          "ram_slots": 3,
+          "max_ram": 4033720117,
+          "price": "$267.08"
+        }
+      ],
+      "memory": [
+        20,
+        {
+          "_id": "608bd21ef6dae8a81f5e1881",
+          "index": 1,
+          "brand": "ADATA",
+          "model": "AD2S800B2G5-R 8 GB",
+          "module_type": "DDR4",
+          "speed": 3341553318,
+          "price": "$100.62"
+        }
+      ],
+      "internal-hard-drive": [
+        20,
+        {
+          "_id": "608bd21ea7adfa818f9e6411",
+          "index": 1,
+          "brand": "ADATA",
+          "model": "Falcon",
+          "capacity": 7748346565,
+          "price": "$206.97",
+          "storage_type": "M2",
+          "form_factor": "M.2-2242"
+        }
+      ],
+      "video-card": [
+        20,
+        {
+          "_id": "608bd21e36de68debe7b236a",
+          "index": 1,
+          "brand": "Nvidia",
+          "model": "GTX",
+          "chipset": "GeForce GTX 1080",
+          "vram": 6554063204,
+          "price": "$157.97"
+        }
+      ],
+      "power-supply": [
+        20,
+        {
+          "_id": "608bd21e1a4e020a07d9e412",
+          "index": 1,
+          "brand": "In Win",
+          "model": "GreenMe 650",
+          "form_factor": "ATX",
+          "wattege": 668,
+          "price": "$120.56"
+        }
+      ],
+      "monitor": [
+        20,
+        {
+          "_id": "608bd21ea45b20ad714f55b3",
+          "index": 1,
+          "brand": "Lenovo",
+          "model": "LT1712p",
+          "size": 28,
+          "resolution_width": 909,
+          "resolution_height": 4984,
+          "refresh_rate": 75,
+          "panel_type": "TN",
+          "price": "$145.43"
+        }
+      ],
+      "case": [
+        20,
+        {
+          "_id": "608bd21e73ecb2ed9fb78a05",
+          "index": 1,
+          "brand": "Fractal Design",
+          "model": "Define R3",
+          "form_factor": "ATX Mid Tower",
+          "internal_bays": 2,
+          "external_bays": 8,
+          "price": "$395.59"
+        }
+      ]
+    }
+  ],
+  "V-Store Center": {
+    "profile": "https://scontent.fpnh1-2.fna.fbcdn.net/v/t1.6435-9/120096871_983062758874990_184096913320148944_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHqX9H69P-HXtzJgdDELPyOA36VWVO5SYQDfpVZU7lJhPpg7fZW8Roez1op4LrAiQKpJrnEUCMblBtjR67kKUUo&_nc_ohc=zIVTs7VfQx8AX99u4mH&_nc_ht=scontent.fpnh1-2.fna&oh=9d69f0886fb88ee7b865844ece28316a&oe=60B13BFA",
     "cpu": [
       20,
       {
-        "_id": "608bd085cb5c17864da8ab1b",
+        "_id": "608bd21e10d33b62d81ae9ad",
         "index": 1,
         "brand": "Intel",
-        "model": "Ryzen 5",
+        "model": "Intel 5th",
         "cores": 11,
-        "tdp": 29,
+        "tdp": 48,
         "integrated_graphics": "Radeon HD 8240",
-        "price": "$235.64"
+        "price": "$324.11"
       }
     ],
     "motherboard": [
       20,
       {
-        "_id": "608bd0854cd347f37a637858",
+        "_id": "608bd21e88e81ce18831eaaa",
         "index": 1,
         "brand": "ASRock",
         "model": "760GM-GS3",
         "socket": "AM3",
         "form_factor": "Micro ATX",
-        "ram_slots": 6,
-        "max_ram": 2106257399,
-        "price": "$101.59"
+        "ram_slots": 5,
+        "max_ram": 5636130267,
+        "price": "$193.94"
       }
     ],
     "memory": [
       20,
       {
-        "_id": "608bd085a02a74f1d5414f9b",
+        "_id": "608bd21ec675398f1b96886e",
         "index": 1,
         "brand": "ADATA",
         "model": "AD2S800B2G5-R 8 GB",
         "module_type": "DDR4",
-        "speed": 7741505235,
-        "price": "$106.65"
+        "speed": 6705651728,
+        "price": "$228.87"
       }
     ],
     "internal-hard-drive": [
       20,
       {
-        "_id": "608bd085dce33c889a10748f",
+        "_id": "608bd21e66ec1119065b8911",
         "index": 1,
         "brand": "ADATA",
         "model": "Falcon",
-        "capacity": 6511108199,
-        "price": "$33.69",
-        "storage_type": "HHD",
-        "form_factor": "M.2-2242"
-      }
-    ],
-    "video-card": [
-      20,
-      {
-        "_id": "608bd085e94b95a8dba58676",
-        "index": 1,
-        "brand": "Nvidia",
-        "model": "GTX",
-        "chipset": "GeForce GTX 1080",
-        "vram": 6529763929,
-        "price": "$260.26"
-      }
-    ],
-    "power-supply": [
-      20,
-      {
-        "_id": "608bd0855f4444a9ff2c2749",
-        "index": 1,
-        "brand": "In Win",
-        "model": "GreenMe 650",
-        "form_factor": "ATX",
-        "wattege": 470,
-        "price": "$44.88"
-      }
-    ],
-    "monitor": [
-      20,
-      {
-        "_id": "608bd08597d750d8e69937c0",
-        "index": 1,
-        "brand": "Lenovo",
-        "model": "LT1712p",
-        "size": 17,
-        "resolution_width": 889,
-        "resolution_height": 7651,
-        "refresh_rate": 121,
-        "panel_type": "TN",
-        "price": "$290.48"
-      }
-    ],
-    "case": [
-      20,
-      {
-        "_id": "608bd0858412bb5c86512926",
-        "index": 1,
-        "brand": "Fractal Design",
-        "model": "Define R3",
-        "form_factor": "ATX Mid Tower",
-        "internal_bays": 6,
-        "external_bays": 3,
-        "price": "$184.25"
-      }
-    ]
-  },
-  "TK Custom Computer": {
-    "profile": "https://scontent.fpnh1-2.fna.fbcdn.net/v/t1.6435-9/79247289_102170961290311_2921942847915556864_n.png?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeF3LMw-iVRmtvNvbLt8op-7WcBi5BeqTzlZwGLkF6pPObRY2m83-2QtQ3_k5NkUNz9DSzobWthj8-BHArUsI1PY&_nc_ohc=T7bVu99u4XYAX_Ujags&_nc_ht=scontent.fpnh1-2.fna&oh=825915a8b546ae72b5e1d12e500f97e4&oe=60B22BA6",
-    "cpu": [
-      20,
-      {
-        "_id": "608bd0856d5ca4af035ebb1c",
-        "index": 1,
-        "brand": "AMD",
-        "model": "Ryzen 5",
-        "cores": 12,
-        "tdp": 40,
-        "integrated_graphics": "Radeon HD 8240",
-        "price": "$289.26"
-      }
-    ],
-    "motherboard": [
-      20,
-      {
-        "_id": "608bd0852be35e89e3834e3e",
-        "index": 1,
-        "brand": "ASRock",
-        "model": "760GM-GS3",
-        "socket": "AM3",
-        "form_factor": "Micro ATX",
-        "ram_slots": 4,
-        "max_ram": 4208145295,
-        "price": "$189.38"
-      }
-    ],
-    "memory": [
-      20,
-      {
-        "_id": "608bd0857083c2f9210f6c55",
-        "index": 1,
-        "brand": "ADATA",
-        "model": "AD2S800B2G5-R 8 GB",
-        "module_type": "DDR3",
-        "speed": 5101118378,
-        "price": "$198.41"
-      }
-    ],
-    "internal-hard-drive": [
-      20,
-      {
-        "_id": "608bd0852490398984fd964c",
-        "index": 1,
-        "brand": "ADATA",
-        "model": "Falcon",
-        "capacity": 5091599944,
-        "price": "$322.07",
+        "capacity": 4584691476,
+        "price": "$114.64",
         "storage_type": "SSD",
         "form_factor": "M.2-2242"
       }
@@ -163,160 +274,53 @@
     "video-card": [
       20,
       {
-        "_id": "608bd08584b1d9364e5607f3",
-        "index": 1,
-        "brand": "AMD",
-        "model": "GTX",
-        "chipset": "GeForce GTX 1080",
-        "vram": 4019844326,
-        "price": "$334.76"
-      }
-    ],
-    "power-supply": [
-      20,
-      {
-        "_id": "608bd085ed1f7dd0d8ab1408",
-        "index": 1,
-        "brand": "In Win",
-        "model": "GreenMe 650",
-        "form_factor": "ATX",
-        "wattege": 406,
-        "price": "$236.73"
-      }
-    ],
-    "monitor": [
-      20,
-      {
-        "_id": "608bd085f7252b0f15544486",
-        "index": 1,
-        "brand": "Lenovo",
-        "model": "LT1712p",
-        "size": 17,
-        "resolution_width": 982,
-        "resolution_height": 831,
-        "refresh_rate": 105,
-        "panel_type": "TN",
-        "price": "$57.42"
-      }
-    ],
-    "case": [
-      20,
-      {
-        "_id": "608bd08511c27b8df9562adf",
-        "index": 1,
-        "brand": "Fractal Design",
-        "model": "Define R3",
-        "form_factor": "ATX Mid Tower",
-        "internal_bays": 2,
-        "external_bays": 4,
-        "price": "$63.41"
-      }
-    ]
-  },
-  "V-Store Center": {
-    "profile": "https://scontent.fpnh1-2.fna.fbcdn.net/v/t1.6435-9/120096871_983062758874990_184096913320148944_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHqX9H69P-HXtzJgdDELPyOA36VWVO5SYQDfpVZU7lJhPpg7fZW8Roez1op4LrAiQKpJrnEUCMblBtjR67kKUUo&_nc_ohc=zIVTs7VfQx8AX99u4mH&_nc_ht=scontent.fpnh1-2.fna&oh=9d69f0886fb88ee7b865844ece28316a&oe=60B13BFA",
-    "cpu": [
-      20,
-      {
-        "_id": "608bd08504fc91b5d2f0043b",
-        "index": 1,
-        "brand": "AMD",
-        "model": "Ryzen 5",
-        "cores": 14,
-        "tdp": 39,
-        "integrated_graphics": "Radeon HD 8240",
-        "price": "$12.28"
-      }
-    ],
-    "motherboard": [
-      20,
-      {
-        "_id": "608bd0851a46375b488600e8",
-        "index": 1,
-        "brand": "ASRock",
-        "model": "760GM-GS3",
-        "socket": "AM3",
-        "form_factor": "Micro ATX",
-        "ram_slots": 3,
-        "max_ram": 5088104275,
-        "price": "$83.25"
-      }
-    ],
-    "memory": [
-      20,
-      {
-        "_id": "608bd08530e8dfaa6df00a87",
-        "index": 1,
-        "brand": "ADATA",
-        "model": "AD2S800B2G5-R 8 GB",
-        "module_type": "DDR3",
-        "speed": 6604121001,
-        "price": "$228.96"
-      }
-    ],
-    "internal-hard-drive": [
-      20,
-      {
-        "_id": "608bd085da0b2aee12516131",
-        "index": 1,
-        "brand": "ADATA",
-        "model": "Falcon",
-        "capacity": 2456346985,
-        "price": "$293.92",
-        "storage_type": "HHD",
-        "form_factor": "M.2-2242"
-      }
-    ],
-    "video-card": [
-      20,
-      {
-        "_id": "608bd08538e5ab1669b13479",
+        "_id": "608bd21ee097f35417dc5192",
         "index": 1,
         "brand": "Nvidia",
         "model": "GTX",
         "chipset": "GeForce GTX 1080",
-        "vram": 2743015041,
-        "price": "$305.35"
+        "vram": 4233200751,
+        "price": "$135.28"
       }
     ],
     "power-supply": [
       20,
       {
-        "_id": "608bd0850fe64315e83d0c69",
+        "_id": "608bd21ee9d56cc5d6bff55e",
         "index": 1,
         "brand": "In Win",
         "model": "GreenMe 650",
         "form_factor": "ATX",
-        "wattege": 778,
-        "price": "$291.29"
+        "wattege": 751,
+        "price": "$25.79"
       }
     ],
     "monitor": [
       20,
       {
-        "_id": "608bd085ce74ccc85bd4991f",
+        "_id": "608bd21edb449903798b7a69",
         "index": 1,
         "brand": "Lenovo",
         "model": "LT1712p",
-        "size": 22,
-        "resolution_width": 703,
-        "resolution_height": 6085,
-        "refresh_rate": 109,
+        "size": 26,
+        "resolution_width": 924,
+        "resolution_height": 7091,
+        "refresh_rate": 186,
         "panel_type": "TN",
-        "price": "$127.74"
+        "price": "$29.09"
       }
     ],
     "case": [
       20,
       {
-        "_id": "608bd08559e053285f15c14e",
+        "_id": "608bd21eb01d2cd69b2e5cf5",
         "index": 1,
         "brand": "Fractal Design",
         "model": "Define R3",
         "form_factor": "ATX Mid Tower",
-        "internal_bays": 3,
-        "external_bays": 7,
-        "price": "$183.94"
+        "internal_bays": 5,
+        "external_bays": 3,
+        "price": "$128.49"
       }
     ]
   },
@@ -325,158 +329,51 @@
     "cpu": [
       20,
       {
-        "_id": "608bd085b064fc118423c066",
+        "_id": "608bd21e97275fe780eb7d20",
         "index": 1,
         "brand": "AMD",
-        "model": "Ryzen 5",
-        "cores": 4,
-        "tdp": 51,
+        "model": "Intel 5th",
+        "cores": 15,
+        "tdp": 47,
         "integrated_graphics": "Radeon HD 8240",
-        "price": "$62.74"
+        "price": "$11.12"
       }
     ],
     "motherboard": [
       20,
       {
-        "_id": "608bd085d90b7342aa36ab0b",
-        "index": 1,
-        "brand": "ASRock",
-        "model": "760GM-GS3",
-        "socket": "AM3",
-        "form_factor": "Micro ATX",
-        "ram_slots": 6,
-        "max_ram": 5298512453,
-        "price": "$134.98"
-      }
-    ],
-    "memory": [
-      20,
-      {
-        "_id": "608bd085ea8022a1a84b6617",
-        "index": 1,
-        "brand": "ADATA",
-        "model": "AD2S800B2G5-R 8 GB",
-        "module_type": "DDR4",
-        "speed": 6834535041,
-        "price": "$194.93"
-      }
-    ],
-    "internal-hard-drive": [
-      20,
-      {
-        "_id": "608bd085ade2c5e45fe0a2be",
-        "index": 1,
-        "brand": "ADATA",
-        "model": "Falcon",
-        "capacity": 3521291104,
-        "price": "$96.08",
-        "storage_type": "SSD",
-        "form_factor": "M.2-2242"
-      }
-    ],
-    "video-card": [
-      20,
-      {
-        "_id": "608bd085f18533004bad23a5",
-        "index": 1,
-        "brand": "MSI",
-        "model": "GTX",
-        "chipset": "GeForce GTX 1080",
-        "vram": 3909350158,
-        "price": "$164.72"
-      }
-    ],
-    "power-supply": [
-      20,
-      {
-        "_id": "608bd085104af3be0b7442d6",
-        "index": 1,
-        "brand": "In Win",
-        "model": "GreenMe 650",
-        "form_factor": "ATX",
-        "wattege": 883,
-        "price": "$337.09"
-      }
-    ],
-    "monitor": [
-      20,
-      {
-        "_id": "608bd0855891e7cee8246e28",
-        "index": 1,
-        "brand": "Lenovo",
-        "model": "LT1712p",
-        "size": 24,
-        "resolution_width": 891,
-        "resolution_height": 6395,
-        "refresh_rate": 91,
-        "panel_type": "TN",
-        "price": "$315.88"
-      }
-    ],
-    "case": [
-      20,
-      {
-        "_id": "608bd0855865ff310a183580",
-        "index": 1,
-        "brand": "Fractal Design",
-        "model": "Define R3",
-        "form_factor": "ATX Mid Tower",
-        "internal_bays": 3,
-        "external_bays": 7,
-        "price": "$307.67"
-      }
-    ]
-  },
-  "Sdach game": {
-    "profile": "https://scontent.fpnh1-2.fna.fbcdn.net/v/t1.6435-9/174272066_1897372160418565_5522739948886397793_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHdH7sTxiYQJR12pHegmtiswjPukCPCCDnCM-6QI8IIOST0Ra2QQA0IqN-pdS42WMNvze5Ezm6sA_ntGWWdauPY&_nc_ohc=6tXNqKxkBAEAX-NjXIy&_nc_ht=scontent.fpnh1-2.fna&oh=321bacdbc2a66c561cdcc69d4352bde8&oe=60B08975",
-    "cpu": [
-      20,
-      {
-        "_id": "608bd0855dc6069aa566b034",
-        "index": 1,
-        "brand": "AMD",
-        "model": "Ryzen 5",
-        "cores": 5,
-        "tdp": 49,
-        "integrated_graphics": "Radeon HD 8240",
-        "price": "$253.10"
-      }
-    ],
-    "motherboard": [
-      20,
-      {
-        "_id": "608bd085d597c5e3b111684a",
+        "_id": "608bd21e7fa7a211aa38418f",
         "index": 1,
         "brand": "ASRock",
         "model": "760GM-GS3",
         "socket": "AM3",
         "form_factor": "Micro ATX",
         "ram_slots": 2,
-        "max_ram": 3416057463,
-        "price": "$292.20"
+        "max_ram": 7224054477,
+        "price": "$81.13"
       }
     ],
     "memory": [
       20,
       {
-        "_id": "608bd0854129bf6694846e7b",
+        "_id": "608bd21e901304d51db3b7b7",
         "index": 1,
         "brand": "ADATA",
         "model": "AD2S800B2G5-R 8 GB",
         "module_type": "DDR2",
-        "speed": 2710343749,
-        "price": "$357.27"
+        "speed": 6969060021,
+        "price": "$79.29"
       }
     ],
     "internal-hard-drive": [
       20,
       {
-        "_id": "608bd08592a70c2dc1aba373",
+        "_id": "608bd21ee51e181766236ced",
         "index": 1,
         "brand": "ADATA",
         "model": "Falcon",
-        "capacity": 7037221503,
-        "price": "$135.14",
+        "capacity": 5991779886,
+        "price": "$60.17",
         "storage_type": "SSD",
         "form_factor": "M.2-2242"
       }
@@ -484,106 +381,107 @@
     "video-card": [
       20,
       {
-        "_id": "608bd0851daa5b2ad5349dde",
+        "_id": "608bd21e9db82620a85cc8ee",
         "index": 1,
-        "brand": "AMD",
+        "brand": "MSI",
         "model": "GTX",
         "chipset": "GeForce GTX 1080",
-        "vram": 6862556473,
-        "price": "$138.32"
+        "vram": 4000365297,
+        "price": "$232.81"
       }
     ],
     "power-supply": [
       20,
       {
-        "_id": "608bd08521ee9bb19f531d02",
+        "_id": "608bd21eb7a3786440ff9c27",
         "index": 1,
         "brand": "In Win",
         "model": "GreenMe 650",
         "form_factor": "ATX",
-        "wattege": 848,
-        "price": "$46.20"
+        "wattege": 617,
+        "price": "$33.99"
       }
     ],
     "monitor": [
       20,
       {
-        "_id": "608bd0850a9c892e58ae3587",
+        "_id": "608bd21e0b2cdb024fb4701b",
         "index": 1,
         "brand": "Lenovo",
         "model": "LT1712p",
-        "size": 19,
-        "resolution_width": 844,
-        "resolution_height": 956,
-        "refresh_rate": 192,
+        "size": 22,
+        "resolution_width": 962,
+        "resolution_height": 885,
+        "refresh_rate": 153,
         "panel_type": "TN",
-        "price": "$136.42"
+        "price": "$127.87"
       }
     ],
     "case": [
       20,
       {
-        "_id": "608bd08582e2ec3ca52e9093",
+        "_id": "608bd21ede1cfbd4b9e6e888",
         "index": 1,
         "brand": "Fractal Design",
         "model": "Define R3",
         "form_factor": "ATX Mid Tower",
-        "internal_bays": 4,
-        "external_bays": 7,
-        "price": "$130.70"
+        "internal_bays": 6,
+        "external_bays": 4,
+        "price": "$74.98"
       }
     ]
   },
-  "Gold one computer": {
-    "profile": "https://scontent.fpnh1-2.fna.fbcdn.net/v/t1.6435-9/120329479_3177412218974589_4077974551769487498_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGv5OYIoRU6q0tta6N9obDUF5cObMiUyI0Xlw5syJTIjWLKr-i6jkma40kKg0NjDvyERs6axSl8Ubbybc9aTZ-a&_nc_ohc=08Qk1smPWIwAX8xpNMx&_nc_ht=scontent.fpnh1-2.fna&oh=0f7910d22caaf67630e04554ef40f689&oe=60B162CA",
+  "Sdach game": {
+    "_id": "608bd21e5bf4fab43c7ab497",
+    "profile": "https://scontent.fpnh1-2.fna.fbcdn.net/v/t1.6435-9/174272066_1897372160418565_5522739948886397793_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHdH7sTxiYQJR12pHegmtiswjPukCPCCDnCM-6QI8IIOST0Ra2QQA0IqN-pdS42WMNvze5Ezm6sA_ntGWWdauPY&_nc_ohc=6tXNqKxkBAEAX-NjXIy&_nc_ht=scontent.fpnh1-2.fna&oh=321bacdbc2a66c561cdcc69d4352bde8&oe=60B08975",
     "cpu": [
       20,
       {
-        "_id": "608bd085be7f3fe1ffe988aa",
+        "_id": "608bd21e1476875b1e00e021",
         "index": 1,
-        "brand": "Intel",
-        "model": "Ryzen 5",
-        "cores": 10,
-        "tdp": 40,
+        "brand": "AMD",
+        "model": "Intel 5th",
+        "cores": 15,
+        "tdp": 32,
         "integrated_graphics": "Radeon HD 8240",
-        "price": "$120.08"
+        "price": "$275.24"
       }
     ],
     "motherboard": [
       20,
       {
-        "_id": "608bd085bca4a44bcc53528a",
+        "_id": "608bd21e243dff65effc449d",
         "index": 1,
         "brand": "ASRock",
         "model": "760GM-GS3",
         "socket": "AM3",
         "form_factor": "Micro ATX",
-        "ram_slots": 3,
-        "max_ram": 7379228241,
-        "price": "$200.63"
+        "ram_slots": 5,
+        "max_ram": 5408533097,
+        "price": "$313.42"
       }
     ],
     "memory": [
       20,
       {
-        "_id": "608bd08551f1388526d6b9be",
+        "_id": "608bd21ed641e0d2876946d9",
         "index": 1,
         "brand": "ADATA",
         "model": "AD2S800B2G5-R 8 GB",
         "module_type": "DDR4",
-        "speed": 2991682831,
-        "price": "$279.04"
+        "speed": 4483878775,
+        "price": "$241.63"
       }
     ],
     "internal-hard-drive": [
       20,
       {
-        "_id": "608bd085f3cb735181dcd27d",
+        "_id": "608bd21e11a82652330b6ded",
         "index": 1,
         "brand": "ADATA",
         "model": "Falcon",
-        "capacity": 7245368346,
-        "price": "$140.95",
+        "capacity": 7914801650,
+        "price": "$182.56",
         "storage_type": "SSD",
         "form_factor": "M.2-2242"
       }
@@ -591,53 +489,161 @@
     "video-card": [
       20,
       {
-        "_id": "608bd08597a519f9b7ac8d52",
+        "_id": "608bd21e8b8a3c0cba734987",
         "index": 1,
         "brand": "MSI",
         "model": "GTX",
         "chipset": "GeForce GTX 1080",
-        "vram": 2062812134,
-        "price": "$72.37"
+        "vram": 5990327100,
+        "price": "$327.74"
       }
     ],
     "power-supply": [
       20,
       {
-        "_id": "608bd085936e3a32dc857060",
+        "_id": "608bd21ea6f22accb0753cd9",
         "index": 1,
         "brand": "In Win",
         "model": "GreenMe 650",
         "form_factor": "ATX",
-        "wattege": 423,
-        "price": "$320.96"
+        "wattege": 796,
+        "price": "$30.56"
       }
     ],
     "monitor": [
       20,
       {
-        "_id": "608bd0850e5c742530fb930b",
+        "_id": "608bd21eeaf71b7520bd1e24",
         "index": 1,
         "brand": "Lenovo",
         "model": "LT1712p",
-        "size": 25,
-        "resolution_width": 759,
-        "resolution_height": 1210,
-        "refresh_rate": 121,
+        "size": 31,
+        "resolution_width": 762,
+        "resolution_height": 7241,
+        "refresh_rate": 98,
         "panel_type": "TN",
-        "price": "$267.25"
+        "price": "$337.87"
       }
     ],
     "case": [
       20,
       {
-        "_id": "608bd085843f92f8de88cd81",
+        "_id": "608bd21eb2b589ff429678ff",
         "index": 1,
         "brand": "Fractal Design",
         "model": "Define R3",
         "form_factor": "ATX Mid Tower",
-        "internal_bays": 8,
+        "internal_bays": 7,
         "external_bays": 5,
-        "price": "$44.54"
+        "price": "$240.17"
+      }
+    ]
+  },
+  "Gold one computer": {
+    "_id": "608bd21ea7f0b3bde06bc016",
+    "profile": "https://scontent.fpnh1-2.fna.fbcdn.net/v/t1.6435-9/120329479_3177412218974589_4077974551769487498_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGv5OYIoRU6q0tta6N9obDUF5cObMiUyI0Xlw5syJTIjWLKr-i6jkma40kKg0NjDvyERs6axSl8Ubbybc9aTZ-a&_nc_ohc=08Qk1smPWIwAX8xpNMx&_nc_ht=scontent.fpnh1-2.fna&oh=0f7910d22caaf67630e04554ef40f689&oe=60B162CA",
+    "cpu": [
+      20,
+      {
+        "_id": "608bd21e8aecd24be4f84717",
+        "index": 1,
+        "brand": "AMD",
+        "model": "Ryzen 5",
+        "cores": 13,
+        "tdp": 45,
+        "integrated_graphics": "Radeon HD 8240",
+        "price": "$279.78"
+      }
+    ],
+    "motherboard": [
+      20,
+      {
+        "_id": "608bd21ee7660948f24294ab",
+        "index": 1,
+        "brand": "ASRock",
+        "model": "760GM-GS3",
+        "socket": "AM3",
+        "form_factor": "Micro ATX",
+        "ram_slots": 5,
+        "max_ram": 4802509671,
+        "price": "$102.63"
+      }
+    ],
+    "memory": [
+      20,
+      {
+        "_id": "608bd21ef8fa1242d546ec06",
+        "index": 1,
+        "brand": "ADATA",
+        "model": "AD2S800B2G5-R 8 GB",
+        "module_type": "DDR2",
+        "speed": 2853975981,
+        "price": "$102.45"
+      }
+    ],
+    "internal-hard-drive": [
+      20,
+      {
+        "_id": "608bd21e000ec5378c702c8d",
+        "index": 1,
+        "brand": "ADATA",
+        "model": "Falcon",
+        "capacity": 7459410723,
+        "price": "$28.47",
+        "storage_type": "M2",
+        "form_factor": "M.2-2242"
+      }
+    ],
+    "video-card": [
+      20,
+      {
+        "_id": "608bd21e3d13fb6b0900becd",
+        "index": 1,
+        "brand": "AMD",
+        "model": "GTX",
+        "chipset": "GeForce GTX 1080",
+        "vram": 3685452515,
+        "price": "$260.21"
+      }
+    ],
+    "power-supply": [
+      20,
+      {
+        "_id": "608bd21ed89c61cc40136654",
+        "index": 1,
+        "brand": "In Win",
+        "model": "GreenMe 650",
+        "form_factor": "ATX",
+        "wattege": 418,
+        "price": "$84.35"
+      }
+    ],
+    "monitor": [
+      20,
+      {
+        "_id": "608bd21e8fa0b26f83da7501",
+        "index": 1,
+        "brand": "Lenovo",
+        "model": "LT1712p",
+        "size": 23,
+        "resolution_width": 846,
+        "resolution_height": 1964,
+        "refresh_rate": 225,
+        "panel_type": "TN",
+        "price": "$190.92"
+      }
+    ],
+    "case": [
+      20,
+      {
+        "_id": "608bd21e055b59b4a5c47c8f",
+        "index": 1,
+        "brand": "Fractal Design",
+        "model": "Define R3",
+        "form_factor": "ATX Mid Tower",
+        "internal_bays": 2,
+        "external_bays": 8,
+        "price": "$374.90"
       }
     ]
   }
