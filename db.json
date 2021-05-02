@@ -609,7 +609,7 @@
         "price": "$272.71"
       }
     ],
-    "internal-hard-drive": [
+    "internalHardDrive": [
       {
         "_id": "608bd7f9eed6a8231016cbb4",
         "index": 0,
@@ -811,7 +811,7 @@
         "form_factor": "M.2-2242"
       }
     ],
-    "video-card": [
+    "videoCard": [
       {
         "_id": "608bd7f9de4da40efa576ca1",
         "index": 0,
@@ -993,7 +993,7 @@
         "price": "$228.40"
       }
     ],
-    "power-supply": [
+    "powerSupply": [
       {
         "_id": "608bd7f961106c1863d5813b",
         "index": 0,
@@ -2230,7 +2230,7 @@
         "price": "$321.39"
       }
     ],
-    "internal-hard-drive": [
+    "internalHardDrive": [
       {
         "_id": "608bd7f9337d3ebee6410b4c",
         "index": 0,
@@ -2432,7 +2432,7 @@
         "form_factor": "M.2-2242"
       }
     ],
-    "video-card": [
+    "videoCard": [
       {
         "_id": "608bd7f9fc127cda1fe892dc",
         "index": 0,
@@ -2614,7 +2614,7 @@
         "price": "$169.10"
       }
     ],
-    "power-supply": [
+    "powerSupply": [
       {
         "_id": "608bd7f94090ceb15140269c",
         "index": 0,
@@ -3851,7 +3851,7 @@
         "price": "$361.18"
       }
     ],
-    "internal-hard-drive": [
+    "internalHardDrive": [
       {
         "_id": "608bd7f96ffdc6f140ead043",
         "index": 0,
@@ -4053,7 +4053,7 @@
         "form_factor": "M.2-2242"
       }
     ],
-    "video-card": [
+    "videoCard": [
       {
         "_id": "608bd7f9a5ba4bdfe9f97818",
         "index": 0,
@@ -4235,7 +4235,7 @@
         "price": "$289.00"
       }
     ],
-    "power-supply": [
+    "powerSupply": [
       {
         "_id": "608bd7f9f6a6e72c7d418ee5",
         "index": 0,
@@ -5472,7 +5472,7 @@
         "price": "$35.19"
       }
     ],
-    "internal-hard-drive": [
+    "internalHardDrive": [
       {
         "_id": "608bd7f9963eaf94b3b392be",
         "index": 0,
@@ -5674,7 +5674,7 @@
         "form_factor": "M.2-2242"
       }
     ],
-    "video-card": [
+    "videoCard": [
       {
         "_id": "608bd7f92ffe1f37be2af4e4",
         "index": 0,
@@ -5856,7 +5856,7 @@
         "price": "$344.83"
       }
     ],
-    "power-supply": [
+    "powerSupply": [
       {
         "_id": "608bd7f9387d1739414dd7c7",
         "index": 0,
@@ -7093,7 +7093,7 @@
         "price": "$380.44"
       }
     ],
-    "internal-hard-drive": [
+    "internalHardDrive": [
       {
         "_id": "608bd7f9b4150b79c82949a6",
         "index": 0,
@@ -7295,7 +7295,7 @@
         "form_factor": "M.2-2242"
       }
     ],
-    "video-card": [
+    "videoCard": [
       {
         "_id": "608bd7f9e4532be14d186c2b",
         "index": 0,
@@ -7477,7 +7477,7 @@
         "price": "$97.02"
       }
     ],
-    "power-supply": [
+    "powerSupply": [
       {
         "_id": "608bd7f939c0f2817a04b4db",
         "index": 0,
@@ -8714,7 +8714,7 @@
         "price": "$221.44"
       }
     ],
-    "internal-hard-drive": [
+    "internalHardDrive": [
       {
         "_id": "608bd7f9673d30adffb7b199",
         "index": 0,
@@ -8916,7 +8916,7 @@
         "form_factor": "M.2-2242"
       }
     ],
-    "video-card": [
+    "videoCard": [
       {
         "_id": "608bd7f9bdaac09ec9d18df4",
         "index": 0,
@@ -9098,7 +9098,7 @@
         "price": "$32.41"
       }
     ],
-    "power-supply": [
+    "powerSupply": [
       {
         "_id": "608bd7f91c2878087487ab46",
         "index": 0,
